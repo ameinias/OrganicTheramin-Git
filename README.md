@@ -4,6 +4,7 @@
  A fleshy singing creature, in installation form. 
  
 ![image](theramin2_bb.png)
+![image](still.png)
 
 _Organic Theremin_ is a narrative installation created for exhibition in Experience and Interfaces OCADU 2025. It explores curiosity in the monstrous, and how something that initially can seem quite frightening and monstrous can reward your curiosity with affection and beauty.
 
